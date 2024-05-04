@@ -1,2 +1,2 @@
 # github_learn
-Hello my name is <b>Lakshay Porwal</b>
+Hello my name is <i>Lakshay Porwal</i>
